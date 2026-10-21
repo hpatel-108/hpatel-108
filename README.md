@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hiren Patel 👋
+## Computer Science, Math @ University Of Toronto
 
 <!--
 **hpatel-108/hpatel-108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
