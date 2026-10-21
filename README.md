@@ -1,4 +1,4 @@
-## Hiren Patel 👋
+## Hi, I'm Hiren Patel 👋
 ### 🎓 Computer Science, Math @ University Of Toronto
 
 <!--
